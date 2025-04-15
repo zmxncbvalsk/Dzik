@@ -1,4 +1,4 @@
 # GRupa 3
 
-## 0.0.1 - 15.04.2025
+## 1.0.0 - 15.04.2025
 - dodanie pliku changelog
